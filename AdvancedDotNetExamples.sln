@@ -37,21 +37,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week05", "Week05", "{6161FE
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week05_1_AsyncEx", "Week05_1_AsyncEx\Week05_1_AsyncEx.csproj", "{836DC491-BB86-4B8D-9B18-23FB0C02A5EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week05_2_ErrorHandling", "Week05_2_ErrorHandling\Week05_2_ErrorHandling.csproj", "{57667BB3-4A8E-4365-BAC7-5E70C58822FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week05_2_ErrorHandling", "Week05_2_ErrorHandling\Week05_2_ErrorHandling.csproj", "{57667BB3-4A8E-4365-BAC7-5E70C58822FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week05_3_MultiTask_WhenAny", "Week05_3_MultiTask_WhenAny\Week05_3_MultiTask_WhenAny.csproj", "{EB730789-788E-4BBE-91D5-88A59F1A7026}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week05_3_MultiTask_WhenAny", "Week05_3_MultiTask_WhenAny\Week05_3_MultiTask_WhenAny.csproj", "{EB730789-788E-4BBE-91D5-88A59F1A7026}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week06", "Week06", "{99E7F058-B2CB-48D3-AE7B-016DD8282E1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week06_1_AsyncProgrammingModel", "Week06_1_AsyncProgrammingModel\Week06_1_AsyncProgrammingModel.csproj", "{7F05AC4E-9317-4996-B667-DCE4EC7AB370}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week06_1_AsyncProgrammingModel", "Week06_1_AsyncProgrammingModel\Week06_1_AsyncProgrammingModel.csproj", "{7F05AC4E-9317-4996-B667-DCE4EC7AB370}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week06_2_AsyncDatabaseAccess", "Week06_2_AsyncDatabaseAccess\Week06_2_AsyncDatabaseAccess.csproj", "{B95B712F-306F-47F2-9C49-72A9DBA4402C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week06_2_AsyncDatabaseAccess", "Week06_2_AsyncDatabaseAccess\Week06_2_AsyncDatabaseAccess.csproj", "{B95B712F-306F-47F2-9C49-72A9DBA4402C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week07", "Week07", "{FA7EB017-15E5-4565-89B6-09697B236B41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week07_1_HttpListener", "Week07_1_HttpListener\Week07_1_HttpListener.csproj", "{481E0D63-2EE1-4EE2-9D97-42ED6EA896BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week07_1_HttpListener", "Week07_1_HttpListener\Week07_1_HttpListener.csproj", "{481E0D63-2EE1-4EE2-9D97-42ED6EA896BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week07_2_WebAPI", "Week07_2_WebAPI\Week07_2_WebAPI.csproj", "{BC2AE61F-0626-4258-9AC1-4921A72BBA52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week07_2_WebAPI", "Week07_2_WebAPI\Week07_2_WebAPI.csproj", "{BC2AE61F-0626-4258-9AC1-4921A72BBA52}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week07_3_KestrelWebServer", "Week07_3_KestrelWebServer\Week07_3_KestrelWebServer.csproj", "{057220FB-7337-4F3D-882B-C5C40AB189DE}"
 EndProject
@@ -61,7 +61,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week07_5_KestrelWebServer_C
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week08", "Week08", "{1107E51A-A2F2-4E15-B64A-06E6D1AC611E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week08_1_SignalREx", "Week08_1_SignalREx\Week08_1_SignalREx.csproj", "{B5EED496-1573-469E-952C-7CC938A2BA20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week08_1_SignalREx", "Week08_1_SignalREx\Week08_1_SignalREx.csproj", "{B5EED496-1573-469E-952C-7CC938A2BA20}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week09", "Week09", "{76266627-88E9-40A5-A8EE-5AFCFB15D3BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week09_1_Multithreading", "Week09_1_Multithreading\Week09_1_Multithreading.csproj", "{CBF8C043-8A15-4215-ADFC-C290832C1801}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -157,6 +161,10 @@ Global
 		{B5EED496-1573-469E-952C-7CC938A2BA20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5EED496-1573-469E-952C-7CC938A2BA20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5EED496-1573-469E-952C-7CC938A2BA20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBF8C043-8A15-4215-ADFC-C290832C1801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF8C043-8A15-4215-ADFC-C290832C1801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF8C043-8A15-4215-ADFC-C290832C1801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF8C043-8A15-4215-ADFC-C290832C1801}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -184,6 +192,7 @@ Global
 		{47310B8C-4AEB-4E8D-BB6F-5EA832D34FF2} = {FA7EB017-15E5-4565-89B6-09697B236B41}
 		{5567C994-5289-423F-A3D3-C9FE314A07D5} = {FA7EB017-15E5-4565-89B6-09697B236B41}
 		{B5EED496-1573-469E-952C-7CC938A2BA20} = {1107E51A-A2F2-4E15-B64A-06E6D1AC611E}
+		{CBF8C043-8A15-4215-ADFC-C290832C1801} = {76266627-88E9-40A5-A8EE-5AFCFB15D3BA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1E2364F3-9F34-4C44-8869-C6C56B6BFE81}
